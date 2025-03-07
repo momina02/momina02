@@ -45,8 +45,7 @@
 
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momina02&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark)
 
 ---
 
