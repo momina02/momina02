@@ -50,25 +50,9 @@
 
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark)
-
----
-
-## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
 
 ## 🔥 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=10&theme=dark)
-
----
-
-## 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark" width="100%"/>  
-
-## 🔥 Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=10&theme=dark" width="100%"/>
-
-
 
 ---
 
