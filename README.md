@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Momina  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F74D00&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Momina;Data+Scientist+%7C+AI+Enthusiast+%7C+ML+Engineer;Exploring+LLMs+and+Generative+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Momina;Machine+Learning+Engineer;AI+Engineer;Python+Developer;Exploring+LLMs+and+Generative+AI)](https://git.io/typing-svg)
+
+🚀 **Machine Learning Engineer | AI Engineer | Python Developer**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
