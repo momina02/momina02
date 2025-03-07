@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hey there! I'm Momina Ather 
 
-<!--
-**momina02/momina02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Engineer | AI Engineer | Python Developer**  
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) 
+![Generative AI](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![REST API](https://img.shields.io/badge/RESTAPI-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
+📊 Passionate about **Data Analysis, API Integration, Automation, and Predictive Modeling**  
+💡 Building **End-to-End Data Solutions** with Python & ML  
+
+---
+
+## 🔧 Tech Stack & Skills  
+- **Programming:** Python 🐍 | Pandas 📊 | NumPy 🔢 | Scikit-learn 🤖  
+- **Data Science:** Machine Learning | GMM (Generalized Method of Moments) | Time-Series Forecasting  
+- **APIs & Data Extraction:** OECD 📡 | World Bank 🌎 | State Bank of Pakistan 🏦 | Custom API Development  
+- **Automation & Web Scraping:** Selenium 🕵️‍♂️ | BeautifulSoup 🍜 | Requests 🌐  
+- **Cloud & Databases:** Firebase 🔥 | SQL | Excel Automation  
+- **Visualization:** Matplotlib 📉 | Seaborn 🎨 | Power BI 📊 
+
+---
+
+## 🚀 What I’m Currently Working On  
+🔹 Developing **LLM-powered real-time AI applications**  
+🔹 Implementing **Generative AI for innovative solutions**  
+🔹 Building **API-driven data pipelines** for automation  
+🔹 Exploring **real-time data processing & AI integrations**  
+🔹 Automating **web interactions & data extraction** with **Selenium**  
+🔹 Integrating **Firebase** for **real-time AI applications** 
+
+---
+
+## 📈 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark) 
+![GitHub Streak](https://streak-stats.demolab.com?user=momina02&theme=dark&hide_border=true)  
+![GitHub Followers](https://img.shields.io/github/followers/momina02?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/momina02?style=social)
+
+---
+
+## 🌍 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/momina-ather)  
+
+---
+
+⚡ **Open to collaboration!** If you're working on **AI, LLMs, automation, or APIs**, let’s connect! 🚀  
+
