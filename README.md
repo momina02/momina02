@@ -43,6 +43,11 @@
 
 ---
 
+## 🏆 Kaggle Badges
+![Badge 1](assets/1.svg) ![Badge 2](assets/2.svg) ![Badge 3](assets/3.svg) ![Badge 4](assets/4.svg) ![Badge 5](assets/5.svg) ![Badge 6](assets/6.svg) ![Badge 7](assets/7.svg) ![Badge 8](assets/8.svg) ![Badge 9](assets/9.svg) ![Badge 10](assets/10.svg) ![Badge 11](assets/11.svg) ![Badge 12](assets/12.svg)
+
+---
+
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark)
