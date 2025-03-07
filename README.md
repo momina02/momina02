@@ -17,9 +17,9 @@
 ![REST API](https://img.shields.io/badge/RESTAPI-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 
-🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
-📊 Passionate about **Data Analysis, API Integration, Automation, and Predictive Modeling**  
-💡 Building **End-to-End Data Solutions** with Python & ML  
+- 🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
+- 📊 Passionate about **Data Analysis, API Integration, Automation, and Predictive Modeling**  
+- 💡 Building **End-to-End Data Solutions** with Python & ML  
 
 ---
 
@@ -46,7 +46,7 @@
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark) 
-![GitHub Streak](https://streak-stats.demolab.com?user=momina02&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=momina02&theme=dark&hide_border=true)
 ![GitHub Followers](https://img.shields.io/github/followers/momina02?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/momina02?style=social)
 
