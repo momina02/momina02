@@ -52,6 +52,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=100&layout=compact&theme=tokyonight)
+
+
 ---
 
 ## 🌍 Let's Connect!  
