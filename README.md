@@ -46,15 +46,15 @@
 ## 📈 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=momina02&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&theme=dark) 
-![GitHub Streak](https://streak-stats.demolab.com?username=momina02&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?username=yourusername&theme=dark&hide_border=true)
 
 ---
 
 ## 🌍 Let's Connect!  
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourusername](https://www.kaggle.com/mominaather))
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/momina-ather)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mominaather)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/momina-ather)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/momina02)
 
 ---
 
