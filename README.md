@@ -61,5 +61,5 @@
 
 ---
 
-⚡ **Open to collaboration!** If you're working on **AI, LLMs, automation, or APIs**, let’s connect! 🚀  
+⚡ **Open to collaboration!** If you're working on **AI, LLMs or automation**, let’s connect! 🚀  
 
