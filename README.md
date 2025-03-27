@@ -15,7 +15,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=globe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=icloud&logoColor=white)
 
 
 - 🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
