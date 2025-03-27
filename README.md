@@ -15,7 +15,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![REST API](https://img.shields.io/badge/RESTAPI-02569B?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=globe&logoColor=white)
 
 
 - 🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
@@ -25,12 +25,21 @@
 ---
 
 ### 🔧 Tech Stack & Skills  
-- **Programming:** Python 🐍 | Pandas 📊 | NumPy 🔢 | Scikit-learn 🤖  
-- **Data Science:** Machine Learning | GMM (Generalized Method of Moments) | Time-Series Forecasting  
-- **APIs & Data Extraction:** OECD 📡 | World Bank 🌎 | State Bank of Pakistan 🏦 | Custom API Development  
+
+- **Programming & Web Development:** Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ⚡ | React ⚛️ | Django 🚀
+  
+- **Data Science & Machine Learning:** Supervised & Unsupervised Learning | GMM (Generalized Method of Moments) | Time-Series Forecasting ⏳ | YOLO 🦾 | OpenCV 👁️  
+
+- **AI & LLMs:** Gemini 🔮 | LLMs 🤖 | LangChain 🔗 | Vector Databases 🗄️  
+
+- **APIs & Data Extraction:** OECD 📡 | World Bank 🌎 | State Bank of Pakistan 🏦 | REST API Development  
+
 - **Automation & Web Scraping:** Selenium 🕵️‍♂️ | BeautifulSoup 🍜 | Requests 🌐  
-- **Cloud & Databases:** Firebase 🔥 | SQL | Excel Automation  
-- **Visualization:** Matplotlib 📉 | Seaborn 🎨 | Power BI 📊 
+
+- **Cloud & Databases:** Firebase 🔥 | SQL 🛢️ | Vector Databases 🗂️ | Excel Automation 📑  
+
+- **Data Visualization & UI Tools:** Matplotlib 📉 | Seaborn 🎨 | Power BI 📊 | Streamlit 📺 | Gradio 🎛️  
+
 
 ---
 
