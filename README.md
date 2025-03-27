@@ -17,6 +17,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=icloud&logoColor=white)
 
+---
 
 - 🔍 Exploring **Data Analysis, API Integration, and Machine Learning**
 - 📊 Passionate about **Data Analysis, API Integration, Automation, and Predictive Modeling**  
@@ -27,19 +28,12 @@
 ### 🔧 Tech Stack & Skills  
 
 - **Programming & Web Development:** Python 🐍 | HTML 🌐 | CSS 🎨 | JavaScript ⚡ | React ⚛️ | Django 🚀
-  
 - **Data Science & Machine Learning:** Supervised & Unsupervised Learning | GMM (Generalized Method of Moments) | Time-Series Forecasting ⏳ | YOLO 🦾 | OpenCV 👁️  
-
 - **AI & LLMs:** Gemini 🔮 | LLMs 🤖 | LangChain 🔗 | Vector Databases 🗄️  
-
 - **APIs & Data Extraction:** OECD 📡 | World Bank 🌎 | State Bank of Pakistan 🏦 | REST API Development  
-
 - **Automation & Web Scraping:** Selenium 🕵️‍♂️ | BeautifulSoup 🍜 | Requests 🌐  
-
 - **Cloud & Databases:** Firebase 🔥 | SQL 🛢️ | Vector Databases 🗂️ | Excel Automation 📑  
-
 - **Data Visualization & UI Tools:** Matplotlib 📉 | Seaborn 🎨 | Power BI 📊 | Streamlit 📺 | Gradio 🎛️  
-
 
 ---
 
