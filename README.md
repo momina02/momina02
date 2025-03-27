@@ -9,7 +9,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-purple?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-purple?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=openai&logoColor=white) 
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
