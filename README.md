@@ -93,14 +93,6 @@
 
 ---
 
-### 🔥 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f472b6&text_color=cad3f5&icon_color=8aadf4&border_radius=15&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌟 **Let's Connect & Build Something Epic!** 🌟
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mominaportfolio.netlify.app/)
