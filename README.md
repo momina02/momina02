@@ -94,7 +94,10 @@
 ---
 
 ### 🔥 Top Languages  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=10&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff6bcb&text_color=8b5cf6&icon_color=ff6bcb&border_radius=12&size_weight=0.5&count_weight=0.5)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=f472b6&text_color=cad3f5&icon_color=8aadf4&border_radius=15&size_weight=0.5&count_weight=0.5&cache_seconds=0" alt="Top Languages"/>
+</p>
 
 ---
 
