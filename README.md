@@ -153,10 +153,6 @@ I'm an **AI Engineer** specializing in **LLMs, RAG, Voice AI, and Computer Visio
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=momina02&hide_border=true&background=0D1117&stroke=A3D40C&ring=A3D40C&fire=A3D40C&currStreakLabel=A3D40C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina02&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A3D40C&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
 ---
 
 <!-- ============== 06 — KAGGLE ============== -->
